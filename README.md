@@ -1,2 +1,16 @@
-# Recommendation_system
-This Movie Recommendation System uses User-Based Collaborative Filtering with the MovieLens dataset to suggest personalized movie recommendations. It features a FastAPI backend and a Streamlit frontend, processing user ratings to generate recommendations. The system is designed for deployment on Render, AWS, or Hugging Face Spaces.
+ Movie Recommendation System
+
+This is a **User-Based Collaborative Filtering** Movie Recommendation System built using **FastAPI** for the backend and **Streamlit** for the frontend. The system suggests personalized movie recommendations based on user preferences and similarities.
+
+---
+
+Features**
+✅ User-based collaborative filtering  
+✅ Personalized movie recommendations  
+✅ FastAPI-powered backend  
+✅ Interactive Streamlit frontend  
+✅ Uses MovieLens dataset  
+
+---
+
+**Project Structure**
